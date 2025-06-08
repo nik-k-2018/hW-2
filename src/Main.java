@@ -10,5 +10,14 @@ public class Main {
         System.out.println("dog = " + dog);
         System.out.println("cat = " + cat);
         System.out.println("paper = " + paper);
+
+        System.out.println("Задача 2");
+         dog = dog + 4;
+         cat = cat + 4;
+         paper = paper + 4;
+        System.out.println("dog = " + dog);
+        System.out.println("cat = " + cat);
+        System.out.println("paper = " + paper);
+
         }
     }
