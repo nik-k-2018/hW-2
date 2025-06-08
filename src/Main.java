@@ -19,5 +19,19 @@ public class Main {
         System.out.println("cat = " + cat);
         System.out.println("paper = " + paper);
 
+        System.out.println("Задача3");
+
+        var dog1 = 8.0;
+        var cat1 = 3.6;
+        var paper1 = 763789;
+        dog -= 3.5;
+        cat -= 1.6;
+        paper -= 7639;
+
+        System.out.println("dog = " + dog);
+        System.out.println("cat = " + cat);
+        System.out.println("paper = " + paper);
+
+
         }
     }
